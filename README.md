@@ -53,10 +53,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 📫 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -65,5 +62,4 @@ Here are some ideas to get you started:
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-- 📫 How to reach me: 
 
