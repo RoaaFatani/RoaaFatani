@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h3> 📫 &nbsp;Connect with Me: </h3>
 <h4> Twitter : Roaa_wan <h4/>
-<h4> Linkedin : RoaaFatani <h4/>
+<h4> Linkedin : Roaawan<h4/>
 
 
 
