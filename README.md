@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **RoaaFatani/RoaaFatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there!👋 I am RoaaFatani.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
