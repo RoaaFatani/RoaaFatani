@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Umm Al-Qura University.
-- 🌱 &nbsp; Learning more about Cloud Architecture, and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Artificial Intelligence.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
